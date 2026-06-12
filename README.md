@@ -25,13 +25,13 @@ Examples:
 - Anthropic
 - Google Gemini
 
-**Pros:**
+Pros:
 
 - Direct pricing
 - Official support
 - Predictable billing
 
-**Cons:**
+Cons:
 
 - Multiple API keys
 - Different API formats
@@ -40,7 +40,7 @@ Examples:
 
 API gateways provide a unified OpenAI-compatible endpoint while supporting multiple models.
 
-**Benefits:**
+Benefits:
 
 - One API format
 - Easier integration
@@ -66,26 +66,11 @@ Many developers are switching to DeepSeek models for:
 
 because of lower token costs and strong coding performance.
 
-## OpenRouter vs API Gateway
-
-| Feature | OpenRouter | API Gateway | Direct Provider |
-|---------|------------|-------------|-----------------|
-| Models | Many providers | Curated multi-model routes | One provider |
-| API format | OpenAI-style | Usually OpenAI-style | Provider-specific |
-| Setup | One key | One key | One key per provider |
-| Pricing | Aggregator catalog | Gateway credits / packs | Official list price |
-| Best for | Model shopping | Stable coding routes | Single-vendor production |
-
-## More in this repo
-
-- [OpenRouter vs DeepSeek](./openrouter-vs-deepseek.md)
-- [OpenRouter pricing explained](./openrouter-pricing.md)
-
 ## Related Guides
 
-- [Cursor + DeepSeek](https://github.com/nanobridgerafa/cursor-deepseek-guide)
-- [Cline + DeepSeek](https://github.com/nanobridgerafa/cline-deepseek-guide)
-- [DeepSeek API Pricing](https://github.com/nanobridgerafa/deepseek-api-pricing)
+- Cursor + DeepSeek
+- Cline + DeepSeek
+- DeepSeek API Pricing
 
 ## License
 
