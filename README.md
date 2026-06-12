@@ -68,9 +68,9 @@ because of lower token costs and strong coding performance.
 
 ## Related Guides
 
-- Cursor + DeepSeek
-- Cline + DeepSeek
-- DeepSeek API Pricing
+- [Cursor + DeepSeek](https://github.com/nanobridgerafa/cursor-deepseek-guide)
+- [Cline + DeepSeek](https://github.com/nanobridgerafa/cline-deepseek-guide)
+- [DeepSeek API Pricing](https://github.com/nanobridgerafa/deepseek-api-pricing)
 
 ## License
 
